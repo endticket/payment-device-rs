@@ -1,0 +1,7 @@
+[package]
+name = "payment-device"
+version = "0.1.0"
+authors = ["Juhasz Sandor <blackghost1987@gmail.com>"]
+
+[dependencies]
+error-chain = "0.10.0"
